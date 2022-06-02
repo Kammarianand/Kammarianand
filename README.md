@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm anand</h1>
 <h3 align="center">🧑‍💻ComputerScienceAndEngineering Student</h3>
-
+<img align="right" alt="coding" width="400" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand&label=Profile%20views&color=0e75b6&style=flat" alt="anand" /> </p>
 
 - 🌱 I’m currently learning **C++ || Java || Python**
