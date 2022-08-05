@@ -1,3 +1,4 @@
+![new Image](https://raw.githubusercontent.com/Kammarianand/Kammarianand/main/linkedBanner.png)
 <h1 align="center">Hi 👋, I'm anand</h1>
 <h3 align="center">🧑‍💻ComputerScienceAndEngineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif">
@@ -11,7 +12,9 @@
 
 - 🧑‍💻 **others to me : can you code ? me : I can do that all the day**
 
-- 🧑‍💻 Replit **https://replit.com/@kammarianand**
+- ```🧑‍💻 Replit``` **https://replit.com/@kammarianand**
+
+- ```🧑‍💻 Sololearn``` **https://www.sololearn.com/profile/20186597**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
