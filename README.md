@@ -4,6 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand&label=Profile%20views&color=0e75b6&style=flat" alt="anand" /> </p>
 
+<a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 - 🌱 I’m currently learning **C++ || Java || Python**
 
 - 💬 Ask me about **Code || Project**
@@ -14,7 +17,7 @@
 
 - ```🧑‍💻 Replit``` **https://replit.com/@kammarianand**
 
-- ```🧑‍💻 Sololearn``` **https://www.sololearn.com/profile/20186597**
+- ```🧑‍💻 Sololearn``` **https://www.sololearn.com/profile/20186597** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,8 +29,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand&show_icons=true&locale=en&layout=compact" alt="anand" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand&show_icons=true&locale=en" alt="anand" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand&" alt="anand" /></p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Kammarianand"><img src="https://github-readme-stats.vercel.app/api?username=Kammarianand&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kammarianand's GitHub stats" /></a>
+
+<a href="http://www.github.com/Kammarianand"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kammarianand&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Kammarianand"><img src="https://activity-graph.herokuapp.com/graph?username=Kammarianand&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Kammarianand" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kammarianand&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Kammarianand/Payment_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammarianand&repo=Payment_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Kammarianand/Registration-login-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammarianand&repo=Registration-login-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Kammarianand/Java-Threading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammarianand&repo=Java-Threading&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
