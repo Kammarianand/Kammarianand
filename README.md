@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand&label=Profile%20views&color=0e75b6&style=flat" alt="anand" /> </p>
 
 <a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
+
+![GitHub User's stars](https://img.shields.io/github/stars/kammarianand?color=cyan&style=for-the-badge)
 
 - 🌱 I’m currently learning **C++ || Java || Python**
 
