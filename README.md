@@ -9,11 +9,11 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 ![GitHub User's stars](https://img.shields.io/github/stars/kammarianand?color=cyan&style=for-the-badge)
 
-- 🌱 I’m currently learning **C++ || Java || Python**
+- 🌱 I’m currently learning ```C++ || Java || Python || MySQL```
 
-- 💬 Ask me about **Code || Project**
+- 💬 Ask me about ```Code || Project```
 
-- 📫 How to reach me **kammarianand2002@gmail.com**
+- 📫 ```How to reach me``` **kammarianand2002@gmail.com**
 
 - 🧑‍💻 **others to me : can you code ? me : I can do that all the day**
 
