@@ -44,7 +44,8 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Kammarianand"><img src="https://github-readme-stats.vercel.app/api?username=Kammarianand&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kammarianand's GitHub stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kammarianand&show_icons=true&theme=cobalt)
+
 
 <a href="http://www.github.com/Kammarianand"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kammarianand&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -54,5 +55,8 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Kammarianand/Payment_App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammarianand&repo=Payment_App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Kammarianand/Registration-login-System" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammarianand&repo=Registration-login-System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center"><a href="https://github.com/Kammarianand/Java-Threading" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammarianand&repo=Java-Threading&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Payment_App&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Registration-login-System&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Java-Threading&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
