@@ -55,7 +55,7 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 <b>Top Repositories</b>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Payment_App&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Payment_App&theme=cobalt)](https://github.com/kammarianand/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Registration-login-System&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
