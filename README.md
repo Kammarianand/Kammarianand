@@ -9,6 +9,9 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 ![GitHub User's stars](https://img.shields.io/github/stars/kammarianand?color=cyan&style=for-the-badge)
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&theme=cobalt)](https://www.linkedin.com/in/kammari-anand-504512230/)
+
+
 - 🌱 I’m currently learning ```C++ || Java || Python || MySQL```
 
 - 💬 Ask me about ```Code || Project```
