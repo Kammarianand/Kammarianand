@@ -5,10 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand&label=Profile%20views&color=0e75b6&style=flat" alt="anand" /> </p>
 
 <a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br>
-
+src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![GitHub User's stars](https://img.shields.io/github/stars/kammarianand?color=cyan&style=for-the-badge)
-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&theme=cobalt)](https://www.linkedin.com/in/kammari-anand-504512230/)
 
 
