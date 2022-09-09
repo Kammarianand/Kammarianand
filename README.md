@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&theme=cobalt)](https://www.linkedin.com/in/kammari-anand-504512230/)
 
 
-- 🌱 I’m currently learning ```C++ || Java || Python || MySQL```
+- 🌱 I’m currently learning ```C++ || Java || Python || SQL```
 
 - 💬 Ask me about ```Code || Project```
 
