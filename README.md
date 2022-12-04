@@ -7,7 +7,7 @@
 <a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![GitHub User's stars](https://img.shields.io/github/stars/kammarianand?color=cyan&style=for-the-badge)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&theme=cobalt)](https://www.linkedin.com/in/kammari-anand-504512230/)
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&theme=cobalt)](https://www.linkedin.com/in/kammari-anand-504512230/) -->
 
 
 - 🌱 I’m currently learning ```C++ || Java || Python || SQL```
@@ -39,12 +39,16 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Php" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="Php" /></a>
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 </p>
 
 
-
-
-
+### Socials
+<p align="left"> <a href="https://www.codepen.io/SuperiorCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kammari-anand-504512230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  
+<a href="https://kaggle.com/kammarianand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kammarianand" height="30" width="40" /></a>
+</p>
 <b>My GitHub Stats</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kammarianand&show_icons=true&theme=cobalt)
@@ -56,6 +60,11 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 <a href="https://github.com/Kammarianand" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kammarianand&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=kammarianand&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+
+
 <b>Top Repositories</b>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Payment_App&theme=cobalt)](https://github.com/kammarianand/Payment_App)
@@ -63,4 +72,6 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Registration-login-System&theme=react)](https://github.com/kammarianand/Registration-login-System)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Java-Threading&theme=gruvbox)](https://github.com/kammarianand/Java-Threading)
+<!-- ##Quote of the day -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
