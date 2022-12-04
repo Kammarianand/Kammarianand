@@ -22,7 +22,6 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 - ```🧑‍💻 Sololearn``` **https://www.sololearn.com/profile/20186597**
 
-- ```🧑‍💻 CodePen``` **https://codepen.io/SuperiorCoder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,9 +45,10 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 ### Socials
 <p align="left"> <a href="https://www.codepen.io/SuperiorCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kammari-anand-504512230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  
+
 <a href="https://kaggle.com/kammarianand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kammarianand" height="30" width="40" /></a>
 </p>
+
 <b>My GitHub Stats</b>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kammarianand&show_icons=true&theme=cobalt)
