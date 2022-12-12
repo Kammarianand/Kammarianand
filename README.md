@@ -1,7 +1,8 @@
 ![new Image](https://raw.githubusercontent.com/Kammarianand/Kammarianand/main/linkedBanner.png)
 <h1 align="center">Hey there 👋, I'm anand</h1>
 <p align="center">🧑‍Hi, I'm a programmer and a learner. I love coding and doing anything that has to do with computers. I'm currently an undergraduate student in engineering.I'm also a machine learning enthusiast and Machine learning has always been my interest and I aspire to work in the ML field in future</p>
-<img align="right" alt="coding" width="400" src="https://blog.zoho.com/wp-content/uploads/2019/08/new-Converted.gif"><br>
+
+<img align="right" alt="coding" width="400" src="https://techovirish.com/assets/img/about/Programming.gif"><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand&label=Profile%20views&color=0e75b6&style=flat" alt="anand" /> </p>
 
 <a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img
@@ -56,7 +57,7 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 <a href="http://www.github.com/Kammarianand"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kammarianand&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Kammarianand"><img src="https://activity-graph.herokuapp.com/graph?username=Kammarianand&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/Kammarianand" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kammarianand&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
