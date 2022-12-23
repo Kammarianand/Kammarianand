@@ -19,12 +19,6 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 - 🧑‍💻 **others to me : can you code ? me : I can do that all the day**
 
-- ```🧑‍💻 Replit``` **https://replit.com/@kammarianand**
-
-- ```🧑‍💻 Sololearn``` **https://www.sololearn.com/profile/20186597**
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +48,8 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 </a> <a href="https://www.kaggle.com/kammarianand" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
   
-<a href="https://www.github.com/Kammarianand" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kammari-anand-504512230/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+ [![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand)
+[![sololearn](https://img.shields.io/badge/sololearn-0A66C2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/20186597)
 
 </p>
 
