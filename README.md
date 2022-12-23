@@ -83,7 +83,6 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 <!-- ##Quote of the day -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<br><br><br>
-*my music*<br>
+<b style="font-size: 150px;">🎧Ⲙ𐌵𝛓ⲓⲥ-Ⲥⲟⲇⲉ🎧
+<br><br>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bpj1zufrhp20z5q8qgk7yt6h9&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=bpj1zufrhp20z5q8qgk7yt6h9&redirect=true)
