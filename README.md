@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 <a href="http://www.github.com/Kammarianand"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kammarianand&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
+<a href="http://www.github.com/Kammarianand"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Kammarianand&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Kammarianand" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kammarianand&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
@@ -79,6 +79,7 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Registration-login-System&theme=react)](https://github.com/kammarianand/Registration-login-System)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kammarianand&repo=Java-Threading&theme=gruvbox)](https://github.com/kammarianand/Java-Threading)
+<br><br>🅷🅴🆁🅴❜🆂  🆂🅾🅼🅴🆃🅷🅸🅽🅶  🆈🅾🆄  🅼🅸🅶🅷🆃  🅻🅸🅺🅴<br>
 <!-- ##Quote of the day -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
