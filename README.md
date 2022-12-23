@@ -51,6 +51,9 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
  [![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand)
 [![sololearn](https://img.shields.io/badge/sololearn-0A66C2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/20186597)
 
+  
+<!-- [![codingninjas](https://img.shields.io/badge/codingninjas-0A66C2?style=for-the-badge&logo=codingninjas&logoColor=cyan)](https://www.codingninjas.com/codestudio/profile/73c65dee-7e34-457a-aaf6-f6673777c251) -->
+
 </p>
 
 <b>My GitHub Stats</b>
