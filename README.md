@@ -47,7 +47,10 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a> <a href="https://www.kaggle.com/kammarianand" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-  
+<a href="https://twitter.com/Anand39630269" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
  [![replit](https://img.shields.io/badge/replit-0A66C2?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@kammarianand)
 [![sololearn](https://img.shields.io/badge/sololearn-0A66C2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/profile/20186597)
 
