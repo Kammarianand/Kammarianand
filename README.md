@@ -19,6 +19,7 @@ src="https://img.shields.io/github/followers/Kammarianand?logo=github&style=for-
 
 - 🧑‍💻 **others to me : can you code ? me : I can do that all the day**
 
+- ```ₛₜₐy ₕᵤₙgᵣy ₛₜₐy 𝆑ₒₒₗᵢₛₕ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
