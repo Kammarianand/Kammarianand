@@ -100,21 +100,10 @@ but because I think it would be interesting. 😎
 - College-level mini project: Sentiment Analysis on Text using BERT Neural Network
 - working on my portfolio website 
 
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kammari-anand-504512230/)
-![Email](https://img.shields.io/badge/Email-Contact-informational)
-[![Sololearn](https://img.shields.io/badge/Sololearn-Connect-green)](https://www.sololearn.com/profile/20186597)
-
-
 
 ## 🧑‍💻
 
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-
 
 <b style="font-size: 150px;">🎧Ⲙ𐌵𝛓ⲓⲥ-Ⲥⲟⲇⲉ🎧
 <br><br>
