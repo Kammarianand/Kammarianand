@@ -6,8 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDAE&width=635&lines=Python+enthusiast+%F0%9F%90%8D;Data+analysis+%F0%9F%93%8A;Data+Visualization+%F0%9F%93%89;Feature+Engineering+%F0%9F%9A%80;Command+Line+Enthusiast+%F0%9F%96%A5)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=3EFF38C0&width=435&lines=Python+enthusiast+%F0%9F%90%8D;Data+Analysis+%F0%9F%93%8A;Data+Visualization+%F0%9F%93%89;Feature+Engineering+%F0%9F%9A%80;Model+selection+%F0%9F%A4%96;Command+Line+Enthusiast+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
 
 
