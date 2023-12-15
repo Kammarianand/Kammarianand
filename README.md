@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=3EFF38C0&width=435&lines=Python+enthusiast+%F0%9F%90%8D;Data+Analysis+%F0%9F%93%8A;Data+Visualization+%F0%9F%93%89;Feature+Engineering+%F0%9F%9A%80;Model+selection+%F0%9F%A4%96;Command+Line+Enthusiast+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 I have an interest in coding, \
 not because it is interesting, \
@@ -90,14 +90,13 @@ but because I think it would be interesting. 😎
 
 ## Achievements
 
-- Microsoft Azure AI Fundamentals ![Microsoft Azure Badge](https://img.shields.io/badge/Achievement-Microsoft_Azure-blue)
+-  ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft-_Azure_AI_900_Certification-blue)
   
-- IBM Data Science Level 2 (Credly Badge) ![IBM Data Science Badge](https://img.shields.io/badge/Achievement-IBM_Data_Science-blue)
+-  ![IBM Data Science Badge](https://img.shields.io/badge/Cerdly_Badge-IBM_Data_Science-blue)
 
-- HackerRank Java and Python Certifications \
-  ![HackerRank Java Badge](https://img.shields.io/badge/Achievement-HackerRank_Java-brightgreen)
+- ![HackerRank Java Badge](https://img.shields.io/badge/HackerRank-Java_Certification-brightgreen)
   
-  ![HackerRank Python Badge](https://img.shields.io/badge/Achievement-HackerRank_Python-brightgreen)
+- ![HackerRank Python Badge](https://img.shields.io/badge/HackerRank-Python_Certification-brightgreen)
 
 
 
