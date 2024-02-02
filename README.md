@@ -60,9 +60,15 @@ but because I think it would be interesting. 😎
 
 ## Soft Skills
 
-- Communication
-- Teamwork
-- Presentation
+
+![Communication](https://img.shields.io/badge/Communication-%E2%9C%93-brightgreen?style=flat-square&logo=slack)
+
+
+![Teamwork](https://img.shields.io/badge/Teamwork-%E2%9C%93-blueviolet?style=flat-square&logo=github)
+
+
+![Presentation](https://img.shields.io/badge/Presentation-%E2%9C%93-orange?style=flat-square&logo=google-slides)
+
 
 ## Tools
 
