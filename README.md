@@ -2,7 +2,7 @@
 
 
 # 𝙆𝘼𝙈𝙈𝘼𝙍𝙄 𝘼𝙉𝘼𝙉𝘿
-## ASPIRING MACHINE LEARNING ENGINEER
+## Data Analyst at Optival
 
 
 
