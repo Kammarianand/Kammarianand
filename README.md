@@ -2,7 +2,7 @@
 
 
 # 𝙆𝘼𝙈𝙈𝘼𝙍𝙄 𝘼𝙉𝘼𝙉𝘿
-## Data Analyst at Optival
+## Data Analyst at Optival Health Solutions PVT LTD
 
 
 
